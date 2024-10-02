@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#nameHolder {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.1;
+}
+
+#rankNumber {
+  font-size: 1.6em;
+  text-align: center;
+}
+
+#laneNumbers {
+  font-size: 2.4em;
+}
